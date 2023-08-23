@@ -1,0 +1,7 @@
+﻿1>------ Rebuild All started: Project: AnyCompany, Configuration: Debug Any CPU ------
+1>C:\Users\ab0250v\Source\Repos\TechTestC-\TechTest\AnyCompany\Helpers\Helper.cs(31,30,31,32): warning CS0168: The variable 'ex' is declared but never used
+1>C:\Users\ab0250v\Source\Repos\TechTestC-\TechTest\AnyCompany\Helpers\Helper.cs(65,30,65,32): warning CS0168: The variable 'ex' is declared but never used
+1>  AnyCompany -> C:\Users\ab0250v\Source\Repos\TechTestC-\TechTest\AnyCompany\bin\Debug\AnyCompany.dll
+2>------ Rebuild All started: Project: MyTests.Tests, Configuration: Debug Any CPU ------
+2>  MyTests.Tests -> C:\Users\ab0250v\source\repos\TechTestC-\TechTest\MyTests.Tests\bin\Debug\MyTests.Tests.dll
+========== Rebuild All: 2 succeeded, 0 failed, 0 skipped ==========
